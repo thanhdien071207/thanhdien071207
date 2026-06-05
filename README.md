@@ -31,7 +31,7 @@
   <a href="mailto:thanhdien071207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="LINK_FACEBOOK_CỦA_BẠN">
-    <img src="https://www.facebook.com/bobibo07/?locale=vi_VN" alt="Facebook" />
+  <a href="https://www.facebook.com/bobibo07/?locale=vi_VN">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
