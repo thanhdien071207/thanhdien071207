@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+ThanhDienDev+👋;FullStack+Software+Engineer;Passionate+about+Web+Development" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark" />
 </div>
 
