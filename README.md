@@ -27,7 +27,6 @@
   </picture>
 </div>
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhdien071207&label=Profile%20Views&color=0e75b6&style=flat" alt="ThanhDienDev" />
-</p>
+<div align="center">
+  <a href="mailto:thanhdien071207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
