@@ -1,4 +1,7 @@
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark" />
+  <img src="https://DOMAIN_VERCEL_CỦA_BẠN/api/top-langs/?username=thanhdien071207&layout=compact&theme=dark" />
+</div>
 
 ### 🛠 Công nghệ & Công cụ
 
@@ -11,7 +14,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark" />
-  <img src="https://DOMAIN_VERCEL_CỦA_BẠN/api/top-langs/?username=thanhdien071207&layout=compact&theme=dark" />
-</div>
+
