@@ -28,5 +28,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:thanhdien071207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:thanhdien071207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="LINK_FACEBOOK_CỦA_BẠN">
+    <img src="https://www.facebook.com/bobibo07/?locale=vi_VN" alt="Facebook" />
+  </a>
 </div>
