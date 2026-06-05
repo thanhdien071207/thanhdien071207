@@ -27,4 +27,7 @@
   </picture>
 </div>
 
-
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanhdien071207&label=Profile%20Views&color=0e75b6&style=flat" alt="ThanhDienDev" />
+</p>
