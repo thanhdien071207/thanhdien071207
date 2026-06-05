@@ -1,6 +1,12 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark)
 
-<img src="LINK_ẢNH_CỦA_BẠN" alt="Banner" width="100%">
+### 🛠 Công nghệ & Công cụ
 
-# Hi 👋, mình là ThanhDienDev!
-Một FullStack Software Engineer đam mê kiến tạo các hệ thống mạnh mẽ và giao diện người dùng hiện đại.
+**Cơ sở dữ liệu & Back-end:**  
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-end & UI/UX:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
