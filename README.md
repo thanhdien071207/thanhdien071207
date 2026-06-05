@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark" />
-  <img src="https://DOMAIN_VERCEL_CỦA_BẠN/api/top-langs/?username=thanhdien071207&layout=compact&theme=dark" />
 </div>
 
 ### 🛠 Công nghệ & Công cụ
