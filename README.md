@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&pause=1000&width=500&color=36BCF7&lines=Hi+there,+I%27m+ThanhDienDev;FullStack+Software+Engineer;Passionate+about+Web+Development" alt="Typing SVG" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhdien071207&show_icons=true&theme=dark" />
-</div>
-
 ### 🛠 Technologies & Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
