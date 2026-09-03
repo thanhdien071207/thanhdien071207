@@ -19,6 +19,8 @@
 
 ![Setup](https://img.shields.io/badge/Setup-ASUS_ROG_Zephyrus_G14-red?style=for-the-badge&logo=asus)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdien071207&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🐍 Contribution History
 <div align="center">
   <picture>
