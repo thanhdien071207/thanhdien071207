@@ -19,9 +19,6 @@
 
 ![Setup](https://img.shields.io/badge/Setup-ASUS_ROG_Zephyrus_G14-red?style=for-the-badge&logo=asus)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhdien071207&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 🐍 Contribution History
 <div align="center">
   <picture>
