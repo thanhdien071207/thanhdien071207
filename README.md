@@ -1,38 +1,82 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&pause=1000&width=500&color=36BCF7&lines=Hi+there,+I%27m+ThanhDienDev;FullStack+Software+Engineer;Passionate+about+Web+Development" alt="Typing SVG" />
+
+# VO THANH DIEN
+
+### Full-Stack Software Engineer
+
+Building reliable software, exploring new technologies,  
+and turning ideas into practical solutions.
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-System_Design-A78BFA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Vietnam-34D399?style=flat-square" />
+</p>
+
+<a href="https://github.com/thanhhdien071207">
+  <img src="https://komarev.com/ghpvc/?username=thanhhdien071207&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+</a>
+
 </div>
 
-### 🛠 Technologies & Tools
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## About Me
 
-![Asus](https://img.shields.io/badge/Setup-ASUS_ROG_Zephyrus_G14-red?style=for-the-badge&logo=asus)
+- Software Engineering student at Posts and Telecommunications Institute of Technology.
+- Interested in full-stack development, software architecture, and problem-solving.
+- Exploring technologies to build practical and maintainable applications.
+- Always learning, building, and improving.
 
-### 🐍 Contribution History
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,docker,git,github,vscode" />
+</p>
+
+## GitHub Statistics
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhdien071207/thanhdien071207/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhdien071207/thanhdien071207/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhdien071207/thanhdien071207/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhhdien071207&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhdien071207&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </div>
 
+## Contribution Activity
+
 <div align="center">
-  <a href="mailto:thanhdien071207@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhdien071207&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+## Featured Projects
+
+> Replace these examples with your actual repositories.
+
+- **Project One** — A practical application built to solve a real-world problem.
+- **Project Two** — A web application demonstrating frontend and backend skills.
+- **Project Three** — A programming project focused on algorithms or automation.
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:thanhhdien071207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/bobibo07/?locale=vi_VN">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://github.com/thanhhdien071207">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<div align="center">
+
+*“Great software is built through curiosity, consistency, and continuous improvement.”*
+
 </div>
