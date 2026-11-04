@@ -5,8 +5,6 @@
 </p>
 
 
-## ⚡ My developer toolkit
-
 <table align="center">
   <tr>
     <td width="50%"><img src="./assets/toolkit-web.gif" width="100%" alt="Animated web toolkit: HTML, CSS, JavaScript, PHP" /></td>
@@ -14,15 +12,11 @@
   </tr>
 </table>
 
-## Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/thanhdien071207/thanhdien071207/output/snake.gif" alt="Animated snake following my GitHub contributions" width="100%" />
 </p>
 
 ---
-
-<h2 align="center">Let's connect</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61592587898088&amp;locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Contact Thanh Dien on Facebook" /></a>
