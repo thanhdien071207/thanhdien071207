@@ -1,12 +1,9 @@
 
 
-## 👨‍💻 Behind the code
 
 <p align="center">
   <img src="./assets/about-terminal.gif" width="100%" alt="Thanh Dien — Full Stack Software Engineer based in Vietnam. Education: PTIT. Interested in building useful software." />
 </p>
-
-<p align="center"><b>From an idea to something you can use.</b><br />I enjoy connecting interfaces, logic, and data to build useful software.</p>
 
 ## ⚡ My developer toolkit
 
