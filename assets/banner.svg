@@ -2,6 +2,11 @@
   <title id="title">Thanh Dien</title>
   <desc id="desc">Full Stack Software Engineer. Build with purpose. Keep getting better.</desc>
   <defs>
+    <clipPath id="typing">
+      <rect x="64" y="258" width="345" height="32">
+        <animate attributeName="width" values="0;345;345;0;0" keyTimes="0;0.5;0.8;0.95;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#112b46"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
@@ -10,12 +15,23 @@
   <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
   <circle cx="1050" cy="170" r="110" fill="none" stroke="#38bdf8" stroke-opacity=".15"/>
   <circle cx="1050" cy="170" r="145" fill="none" stroke="#818cf8" stroke-opacity=".12"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 1050 170" to="360 1050 170" dur="22s" repeatCount="indefinite"/>
+    <circle cx="1050" cy="60" r="5" fill="#38bdf8"/>
+    <circle cx="1050" cy="315" r="4" fill="#818cf8"/>
+  </g>
   <rect x="64" y="63" width="44" height="5" rx="2.5" fill="url(#accent)"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="64" y="113" fill="#7dd3fc" font-size="15" letter-spacing="4">HELLO, I'M</text>
     <text x="60" y="186" fill="#f0f6fc" font-size="64" font-weight="700">Thanh Dien<tspan fill="#38bdf8">.</tspan></text>
     <text x="64" y="231" fill="#cbd5e1" font-size="25">Full Stack Software Engineer</text>
-    <text x="64" y="282" fill="#94a3b8" font-size="16">Build with purpose. Keep getting better.</text>
-    <text x="963" y="196" fill="#7dd3fc" font-size="76" font-weight="300" opacity=".7">&lt;/&gt;</text>
+    <text x="64" y="282" fill="#94a3b8" font-size="16" clip-path="url(#typing)">Build with purpose. Keep getting better.</text>
+    <rect x="411" y="266" width="2" height="20" fill="#38bdf8">
+      <animate attributeName="x" values="64;409;409;64;64" keyTimes="0;0.5;0.8;0.95;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="963" y="196" fill="#7dd3fc" font-size="76" font-weight="300" opacity=".7">&lt;/&gt;
+      <animate attributeName="opacity" values=".45;.95;.45" dur="4s" repeatCount="indefinite"/>
+    </text>
   </g>
 </svg>
