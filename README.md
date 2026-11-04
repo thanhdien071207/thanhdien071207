@@ -1,19 +1,8 @@
-<p align="center">
-  <img src="./assets/banner-animated.gif" alt="Thanh Dien — Full Stack Software Engineer" width="100%" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/thanhdien071207"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my code on GitHub" /></a>
-  <a href="mailto:thanhdien071207@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-0284C7?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Thanh Dien" /></a>
-</p>
-
-## 👨‍💻 Behind the code
 
 <p align="center">
   <img src="./assets/about-terminal.gif" width="100%" alt="Thanh Dien — Full Stack Software Engineer based in Vietnam. Education: PTIT. Interested in building useful software." />
 </p>
-
-<p align="center"><b>From an idea to something you can use.</b><br />I enjoy connecting interfaces, logic, and data to build useful software.</p>
 
 ## ⚡ My developer toolkit
 
