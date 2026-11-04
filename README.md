@@ -33,8 +33,18 @@ Technologies I've learned and practiced:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
 </p>
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thanhdien071207/thanhdien071207/output/snake.gif" alt="Animated snake following my GitHub contributions" width="100%" />
+</p>
+
 ---
 
 <p align="center">
   <sub>Thanks for stopping by. Explore my pinned repositories below ↓</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/wave-footer.gif" alt="Animated blue waves" width="100%" />
 </p>
