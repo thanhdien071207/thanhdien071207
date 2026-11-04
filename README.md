@@ -6,7 +6,6 @@
 
 ## ⚡ My developer toolkit
 
-<p align="center">Eight technologies I've learned and practiced — across the web and beyond.</p>
 
 <table align="center">
   <tr>
