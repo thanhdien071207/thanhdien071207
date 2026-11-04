@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="./assets/banner-animated.gif" alt="Thanh Dien — Full Stack Software Engineer" width="100%" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/thanhdien071207"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my code on GitHub" /></a>
-  <a href="mailto:thanhdien071207@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-0284C7?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Thanh Dien" /></a>
-</p>
 
 ## 👨‍💻 Behind the code
 
